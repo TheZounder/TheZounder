@@ -12,8 +12,8 @@ Currently know:
 - The workings of RFID and IR signals
 
 Learning:
--Python
--Malware Analysis
+- Python
+- Malware Analysis
 
 On my To-Do list:
--Swift
+- Swift
