@@ -4,16 +4,9 @@ Im TheZounder and I really enjoy cybersecurity and programming. I have no partic
 
 Currently know:
 - Golang
-- Shell
-- Duckyscript (Does this count?)
-- Windows Fundamentals
-- Linux Fundamentals
-- Network Fundamentals
-- The workings of RFID and IR signals
-
-Learning:
 - Python
-- Malware Analysis
+- MATLAB (sorta)
 
-On my To-Do list:
-- Swift
+I need to brush up on everything except MATLAB really though
+
+I am also currently studing physics at an unnamed university, hence the MATLAB.
