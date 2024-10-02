@@ -5,7 +5,7 @@ Im TheZounder and I really enjoy cybersecurity and programming. I have no partic
 Currently know:
 - Golang
 - Python
-- MATLAB (sorta)
+- MATLAB
 
 I need to brush up on everything except MATLAB really though
 
